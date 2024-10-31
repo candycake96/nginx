@@ -1,0 +1,176 @@
+2024/09/30 09:37:17 [emerg] 8184#3044: bind() to 0.0.0.0:443 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/09/30 09:37:52 [error] 8060#8548: *1 CreateFile() "C:\Users\adm-sysleave\Documents\nginx-1.22.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/09/30 09:39:01 [notice] 7356#8488: signal process started
+2024/09/30 09:39:07 [crit] 9908#3936: *7 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:41:11 [notice] 440#2860: signal process started
+2024/09/30 09:41:26 [crit] 3008#8736: *10 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:41:32 [crit] 3008#8736: *11 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:31 [notice] 8324#7808: signal process started
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [crit] 6756#6612: *13 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:42:46 [error] 6756#6612: *13 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/30 09:44:38 [notice] 1412#8400: signal process started
+2024/09/30 09:48:07 [notice] 8996#9200: signal process started
+2024/09/30 09:50:06 [notice] 984#7808: signal process started
+2024/09/30 09:50:06 [emerg] 5768#1532: bind() to 0.0.0.0:443 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/09/30 09:51:31 [notice] 9984#9336: signal process started
+2024/10/08 11:49:19 [notice] 4408#3624: signal process started
+2024/10/08 12:34:46 [notice] 10452#8148: signal process started
+2024/10/08 12:35:45 [notice] 4552#11068: signal process started
+2024/10/08 12:40:42 [notice] 10868#11928: signal process started
+2024/10/24 17:38:26 [notice] 10972#7948: signal process started
+2024/10/24 17:38:26 [error] 10972#7948: OpenEvent("Global\ngx_reload_10736") failed (2: The system cannot find the file specified)
+2024/10/24 17:39:04 [notice] 11868#9428: signal process started
+2024/10/24 17:39:04 [error] 11868#9428: OpenEvent("Global\ngx_reload_10736") failed (2: The system cannot find the file specified)
+2024/10/30 13:30:48 [notice] 13020#8060: signal process started
+2024/10/30 13:47:07 [notice] 12780#5612: signal process started
+2024/10/30 13:50:19 [notice] 13120#6048: signal process started
+2024/10/30 13:52:16 [notice] 10896#12780: signal process started
+2024/10/30 13:55:48 [notice] 9092#508: signal process started
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [crit] 12936#12868: *1 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:56 [error] 12936#12868: *1 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", host: "192.168.16.192:8881"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [crit] 12936#12868: *2 GetFileAttributesEx() "C:\Users\adm-sysleave\Documents\GitHubeact-employee\frontend-one\dist/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:55:57 [error] 12936#12868: *2 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.16.192:8881", referrer: "http://192.168.16.192:8881/"
+2024/10/30 13:59:25 [notice] 9172#10976: signal process started
+2024/10/30 14:10:19 [notice] 13244#11640: signal process started
+2024/10/30 14:32:11 [notice] 12380#2656: signal process started
+2024/10/30 14:56:58 [notice] 5952#9620: signal process started
+2024/10/30 14:58:23 [notice] 10532#6472: signal process started
+2024/10/30 15:32:44 [emerg] 8936#2304: "server" directive is not allowed here in C:\Users\adm-sysleave\Documents\nginx-1.22.1/conf/nginx.conf:50
+2024/10/30 15:35:37 [emerg] 12452#13192: "server" directive is not allowed here in C:\Users\adm-sysleave\Documents\nginx-1.22.1/conf/nginx.conf:50
+2024/10/30 15:37:30 [emerg] 13252#10492: "server" directive is not allowed here in C:\Users\adm-sysleave\Documents\nginx-1.22.1/conf/nginx.conf:50
+2024/10/30 15:41:06 [notice] 11392#3376: signal process started
+2024/10/30 15:42:15 [notice] 2492#560: signal process started
+2024/10/30 15:53:16 [notice] 10016#9956: signal process started
+2024/10/30 15:59:56 [notice] 5316#7188: signal process started
+2024/10/30 16:45:37 [notice] 12828#5356: signal process started
+2024/10/30 16:49:45 [emerg] 5564#12016: the unix domain sockets are not supported on this platform in upstream "unix:/path/to/php-fpm.sock" in C:\Users\adm-sysleave\Documents\nginx-1.22.1/conf/nginx.conf:94
+2024/10/30 16:49:58 [notice] 13012#13200: signal process started
+2024/10/30 18:06:38 [notice] 4300#4840: signal process started
+2024/10/30 18:07:41 [notice] 5164#2572: signal process started
+2024/10/30 18:10:45 [notice] 2252#11284: signal process started
+2024/10/30 18:14:12 [notice] 11124#6128: signal process started
+2024/10/30 18:14:50 [notice] 1420#4112: signal process started
+2024/10/30 18:19:36 [notice] 8852#10024: signal process started
+2024/10/30 18:19:36 [error] 8852#10024: invalid PID number "" in "C:\Users\adm-sysleave\Documents\nginx-1.22.1/logs/nginx.pid"
+2024/10/30 18:21:13 [notice] 1836#9440: signal process started
+2024/10/30 18:21:13 [error] 1836#9440: invalid PID number "" in "C:\Users\adm-sysleave\Documents\nginx-1.22.1/logs/nginx.pid"
+2024/10/31 09:54:55 [notice] 10676#10680: signal process started
+2024/10/31 10:01:24 [notice] 10568#10860: signal process started
+2024/10/31 10:06:47 [notice] 10128#10552: signal process started
+2024/10/31 10:07:03 [error] 6288#6804: *17 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:81", host: "localhost:8880"
+2024/10/31 10:07:05 [error] 6288#6804: *17 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:81", host: "localhost:8880", referrer: "http://localhost:8880/"
+2024/10/31 10:08:07 [notice] 9860#10432: signal process started
+2024/10/31 10:08:12 [error] 10268#11092: *22 upstream sent unsupported FastCGI protocol version: 72 while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:80", host: "localhost:8880"
+2024/10/31 10:08:12 [error] 10268#11092: *22 upstream sent unsupported FastCGI protocol version: 72 while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:80", host: "localhost:8880", referrer: "http://localhost:8880/"
+2024/10/31 10:08:15 [error] 10268#11092: *22 upstream sent unsupported FastCGI protocol version: 72 while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:80", host: "localhost:8880"
+2024/10/31 10:08:15 [error] 10268#11092: *22 upstream sent unsupported FastCGI protocol version: 72 while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:80", host: "localhost:8880", referrer: "http://localhost:8880/"
+2024/10/31 10:09:19 [notice] 10512#10968: signal process started
+2024/10/31 10:10:19 [notice] 9420#9788: signal process started
+2024/10/31 10:10:55 [notice] 4756#9704: signal process started
+2024/10/31 10:12:22 [notice] 8924#10536: signal process started
+2024/10/31 10:16:04 [notice] 9876#10276: signal process started
+2024/10/31 10:17:39 [notice] 11200#11112: signal process started
+2024/10/31 10:18:00 [error] 6120#11080: *46 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:81/index.php", host: "192.168.16.192:8880"
+2024/10/31 10:18:02 [error] 6120#11080: *46 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.16.192, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:81/index.php", host: "192.168.16.192:8880", referrer: "http://192.168.16.192:8880/"
+2024/10/31 10:18:23 [notice] 10304#2500: signal process started
+2024/10/31 10:18:29 [error] 6120#11080: *48 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.16.192, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:81/index.php", host: "192.168.16.192:8880"
+2024/10/31 10:19:01 [notice] 3412#1908: signal process started
+2024/10/31 10:29:50 [notice] 11064#10528: signal process started
+2024/10/31 10:30:43 [notice] 10140#2352: signal process started
+2024/10/31 10:35:23 [notice] 10680#10300: signal process started
+2024/10/31 10:36:44 [notice] 7668#10744: signal process started
+2024/10/31 10:38:48 [emerg] 5220#11152: invalid host in upstream "http://127.0.0.1:80" in C:\Users\adm-sysleave\Documents\nginx-1.22.1/conf/nginx.conf:93
+2024/10/31 10:58:16 [emerg] 8596#8828: invalid host in upstream "http://127.0.0.1:80" in C:\Users\adm-sysleave\Documents\nginx-1.22.1/conf/nginx.conf:93
+2024/10/31 10:58:38 [notice] 10880#8036: signal process started
+2024/10/31 11:01:19 [notice] 3244#9220: signal process started
+2024/10/31 11:11:53 [notice] 10764#8044: signal process started
+2024/10/31 14:01:13 [notice] 10552#5948: signal process started
+2024/10/31 14:03:08 [notice] 8692#4748: signal process started
+2024/10/31 14:23:21 [notice] 1928#4920: signal process started
+2024/10/31 14:25:25 [notice] 2172#10468: signal process started
+2024/10/31 14:30:50 [notice] 11156#3704: signal process started
+2024/10/31 14:32:56 [notice] 6208#11000: signal process started
+2024/10/31 14:34:14 [notice] 5948#4544: signal process started
+2024/10/31 14:37:07 [notice] 4484#1736: signal process started
+2024/10/31 14:39:25 [notice] 3816#5336: signal process started
+2024/10/31 14:46:56 [notice] 7144#1992: signal process started
+2024/10/31 14:48:35 [notice] 4856#4928: signal process started
+2024/10/31 14:49:03 [emerg] 9888#6108: "server" directive is not allowed here in C:\Users\adm-sysleave\Documents\nginx-1.22.1/conf/nginx.conf:59
+2024/10/31 14:49:33 [emerg] 1192#11136: "location" directive is not allowed here in C:\Users\adm-sysleave\Documents\nginx-1.22.1/conf/nginx.conf:35
+2024/10/31 14:50:09 [notice] 7896#8248: signal process started
+2024/10/31 15:10:48 [notice] 1556#936: signal process started
+2024/10/31 15:15:30 [notice] 10260#3188: signal process started
+2024/10/31 15:18:35 [notice] 8984#9752: signal process started
+2024/10/31 15:36:39 [notice] 8572#9652: signal process started
+2024/10/31 15:36:48 [notice] 3188#11132: signal process started
+2024/10/31 15:54:09 [notice] 8568#2872: signal process started
+2024/10/31 15:55:58 [emerg] 1640#5596: invalid URL prefix in C:\Users\adm-sysleave\Documents\nginx-1.22.1/conf/nginx.conf:46
+2024/10/31 15:56:29 [notice] 5772#8852: signal process started
+2024/10/31 16:10:33 [notice] 9288#5104: signal process started
+2024/10/31 16:12:57 [emerg] 9928#3884: unknown directive "localhost" in C:\Users\adm-sysleave\Documents\nginx-1.22.1/conf/nginx.conf:54
+2024/10/31 16:13:23 [notice] 4024#9696: signal process started
+2024/10/31 16:36:03 [notice] 8928#9220: signal process started
+2024/10/31 16:52:20 [notice] 10252#10680: signal process started
